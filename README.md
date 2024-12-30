@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnumSpecialist
-- 👀 I’m interested in python developing and ethical hacking
-- 🌱 I’m currently learning the python language as well as some basics of hacking
+- 👀 I’m interested in programming and Cyber Security Research
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on a beginner to intermediate level project
 - 📫 How to reach me? You can message me 
 
